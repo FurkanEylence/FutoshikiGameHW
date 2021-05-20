@@ -1,0 +1,11 @@
+C:\Users\furka\source\repos\Homework3Game\Homework3Game\bin\Debug\Homework3Game.exe.config
+C:\Users\furka\source\repos\Homework3Game\Homework3Game\bin\Debug\Homework3Game.exe
+C:\Users\furka\source\repos\Homework3Game\Homework3Game\bin\Debug\Homework3Game.pdb
+C:\Users\furka\source\repos\Homework3Game\Homework3Game\obj\Debug\Homework3Game.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\Homework3Game\Homework3Game\obj\Debug\Homework3Game.Form1.resources
+C:\Users\furka\source\repos\Homework3Game\Homework3Game\obj\Debug\Homework3Game.Properties.Resources.resources
+C:\Users\furka\source\repos\Homework3Game\Homework3Game\obj\Debug\Homework3Game.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\Homework3Game\Homework3Game\obj\Debug\Homework3Game.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Homework3Game\Homework3Game\obj\Debug\Homework3Game.exe
+C:\Users\furka\source\repos\Homework3Game\Homework3Game\obj\Debug\Homework3Game.pdb
+C:\Users\furka\source\repos\Homework3Game\Homework3Game\obj\Debug\Homework3Game.Form2.resources
